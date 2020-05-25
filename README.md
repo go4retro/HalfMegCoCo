@@ -1,5 +1,5 @@
 # HalfMegCoCo - an SRAM-based 512kB RAM Expansion for the TANDY Color Computer 3
-This printed circuit board implements a very simplistic SRAM-based memory expansion for the Color Computer 3.  All parts are through hole for easy hobbyist assembly. If 256kB x 8 SRAMs are utilized, the unit offers 1MB of RAM expansion, but requires a DAT board from either Boysontech or Cloud9 to utilize the upper 512kB.
+This printed circuit board implements a very simplistic SRAM-based memory expansion for the Color Computer 3.  All parts are through hole for easy hobbyist assembly. If 512kB x 8 SRAMs are utilized, the unit offers 1MB of RAM expansion, but requires a DAT board from either Boysontech or Cloud9 to utilize the upper 512kB.
 
 ## License
 Copyright (C) 2020  RETRO Innovations
