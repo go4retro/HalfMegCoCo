@@ -1,9 +1,5 @@
-# HalfMegCoCo - a DRAM-based 512kB DRAM Expansion for the TANDY Color Computer 3
-These printed circuit boards implement a very simplistic DRAM-based memory expansion for the Color Computer 3.  They use either 44256 256kb x 4 DRAM ICs in eitehr DIP or "ZIP" format.  
-
-## Issues
-* I have not extensively tested the DIP version, but it appears to work and runs the stress12 test with flying colors
-* The ZIP schematic does not appear to work, or at least I was not able to get it to work.  I have PCBs if someone wants to try to fix.
+# HalfMegCoCo - an SRAM-based 512kB RAM Expansion for the TANDY Color Computer 3
+This printed circuit board implements a very simplistic SRAM-based memory expansion for the Color Computer 3.  All parts are through hole for easy hobbyist assembly. If 256kB x 8 SRAMs are utilized, the unit offers 1MB of RAM expansion, but requires a DAT board from either Boysontech or Cloud9 to utilize the upper 512kB.
 
 ## License
 Copyright (C) 2020  RETRO Innovations
